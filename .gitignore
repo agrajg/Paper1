@@ -3,6 +3,8 @@ packrat/lib*/
 
 # My edits
 *.csv
+*.RData
+/Output/
 
 
 # History files
